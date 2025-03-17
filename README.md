@@ -12,10 +12,10 @@ UniHive is a responsive educational platform built using React, Vite, and Tailwi
 ## Installation
 
 1. Clone the repository:  
-   `git clone https://github.com/vnv2315/unihive.git`
+   `git clone https://github.com/vnv2315/Unihive.git`
 
 2. Navigate into the project directory:  
-   `cd unihive`
+   `cd Unihive`
 
 3. Install the dependencies:  
    `npm install`
